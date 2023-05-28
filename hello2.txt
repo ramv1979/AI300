@@ -4,3 +4,4 @@ another push!
 so we add one line ! 
 lets try again via terminal!! 
 come on!! 
+ok now let me try with bash terminal 
